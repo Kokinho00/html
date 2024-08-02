@@ -1,0 +1,46 @@
+/*estilos da pagina batman.html*/
+.center {
+    text-align: center;
+    
+}
+
+.container {
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+
+}
+.tamanho{
+    font-size: 40px;
+}
+
+#menu li{
+    display: inline;
+    padding: 15px;
+    
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+#menu li a:hover {
+    color: grey;
+}
+.p-30 {
+    padding= 30px;
+}
+
+.br-50{
+    border-radius: 50%;
+}
+
+.wh{
+    width: 500px;
+    height: 400px;
+}
+/*estilos da pagina contato.html*/
+
