@@ -31,7 +31,7 @@
     color: grey;
 }
 .p-30 {
-    padding= 30px;
+    padding: 30px;
 }
 
 .br-50{
@@ -43,4 +43,26 @@
     height: 400px;
 }
 /*estilos da pagina contato.html*/
+
+.flex{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.divisao{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    align-items: center;
+
+}
+
+.imput{
+    width: 400px;
+}
+
+
 
